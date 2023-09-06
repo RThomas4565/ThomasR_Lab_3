@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: ThomasR_Lab_3, Configuration: Debug x64 ------
+1>ThomasR_Lab_3.cpp
+1>ThomasR_Lab_3.vcxproj -> C:\Users\russ4\source\repos\ThomasR_Lab_3\x64\Debug\ThomasR_Lab_3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 10:37 AM and took 01.806 seconds ==========
